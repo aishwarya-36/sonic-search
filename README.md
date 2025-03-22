@@ -1,8 +1,9 @@
-# React + Vite
+# Sonic Search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introducing the Sonic Search, a user-friendly web application designed to help music lovers discover albums from their favorite artists using the powerful Spotify API.
 
-Currently, two official plugins are available:
+[[Spotify for Developers](https://developer.spotify.com/)] lets you retrieve data of albums and artists.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with React and styled with Tailwind CSS, this app offers a seamless and responsive interface for users to search for artists and explore their discographies effortlessly. Whether you're looking for classic hits or the latest releases, Sonic Search makes it easy to dive into the world of music and uncover hidden gems.
+
+Let us celebrate the joy of music discovery!
